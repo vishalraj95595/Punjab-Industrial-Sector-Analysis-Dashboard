@@ -149,7 +149,7 @@ Punjab-Corporate-Landscape-Analysis/
 
 ## 👨‍💻 Author
 
-**Virat Raj**
+**Vishal Raj**
 
 B.Tech Computer Science Engineering  
 Lovely Professional University
