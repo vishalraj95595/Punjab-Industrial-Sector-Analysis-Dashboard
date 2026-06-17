@@ -150,7 +150,9 @@ Punjab-Corporate-Landscape-Analysis/
 ## 👨‍💻 Author
 
 **Vishal Raj**
+
 Bachelor of Computer Applications
+
 Lovely Professional University
 
 ---
